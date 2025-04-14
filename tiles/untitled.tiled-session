@@ -1,0 +1,54 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "Pixel_adv.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "level_01.tmx": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 1.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 334.6666666666667,
+                "y": 209.33333333333337
+            }
+        },
+        "level_02.tmx": {
+            "scale": 1.6803124999999999,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 320.1785382183374,
+                "y": 183.8943648874838
+            }
+        }
+    },
+    "last.imagePath": "D:/game_project/tutorial_game/assets/images/Terrain",
+    "map.height": 23,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 40,
+    "openFiles": [
+    ],
+    "project": "untitled.tiled-project",
+    "recentFiles": [
+        "level_01.tmx",
+        "Pixel_adv.tsx",
+        "level_02.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}

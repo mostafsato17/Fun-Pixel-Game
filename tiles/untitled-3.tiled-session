@@ -1,0 +1,27 @@
+{
+    "activeFile": "level_01.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "Pixel_adv.tsx": {
+            "scaleInDock": 1
+        },
+        "level_01.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 374,
+                "y": 230.66666666666663
+            }
+        }
+    },
+    "openFiles": [
+        "level_01.tmx"
+    ],
+    "project": "untitled-3.tiled-project",
+    "property.type": "float",
+    "recentFiles": [
+        "level_01.tmx"
+    ]
+}
